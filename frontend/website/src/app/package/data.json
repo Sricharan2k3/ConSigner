@@ -1,0 +1,42 @@
+{
+  "boxes": [
+    {
+      "box": {
+        "length": 27,
+        "height": 23,
+        "width": 35
+      },
+      "location": {
+        "z": 0,
+        "y": 0,
+        "x": 0
+      }
+    },
+    {
+      "box": {
+        "length": 28,
+        "height": 37,
+        "width": 55
+      },
+      "location": {
+        "z": 0,
+        "y": 0,
+        "x": 4
+      }
+    }
+  ],
+  "cbm": 3.017483,
+  "containerCBM": 6.75,
+  "dimensions": {
+    "length": 300,
+    "width": 150,
+    "height": 150
+  },
+  "scaledDimensions": {
+    "length": 30,
+    "width": 15,
+    "height": 15
+  },
+  "spaceOptimizationFactor": 10,
+  "usedDeepSearch": false
+}
